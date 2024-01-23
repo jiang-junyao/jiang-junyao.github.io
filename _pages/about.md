@@ -24,17 +24,17 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 <img src="../images/ucas.jpg" alt="ucas" style="zoom:28%; float: left" />&emsp; [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences]
 &emsp; Research Assistant, work with Prof [Jie Wang](https://jiewanglab.github.io/us/). 2021.03-2022.06
 
-<img src="../images/ustb.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [Singleron Biotech]
+<img src="../images/si.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [Singleron Biotech]
 &emsp; Bioinformatician Intern. 2020.12-2022.02
 
-<img src="../images/cuhk.png" alt="cuhk" style="zoom:24%; float: left" />&emsp; [Chinese University of Hong Kong]
+<img src="../images/cuhk.png" alt="cuhk" style="zoom:12%; float: left" />&emsp; [Chinese University of Hong Kong]
 &emsp; Master, School of Biomedical Science, advised by Prof TSUI Kwok Wing. 2020.09-2021.11
 
 ***
 
 # Publications
 
-$\mit{Methods & Software}$
+$\mit{Methods}$
 
 [1] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. **IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles**. iscience, Oct 2022
 
