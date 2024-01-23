@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Hu's Homepage"
+title                    : "JJY page"
 title_separator          : "-"
-name                     : &name "Lei Hu"
+name                     : &name "Junyao Jiang"
 description              : &description "personal description"
 url                      : https://dbinary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lei Hu"
-  avatar           : "lei.png"
-  bio              : "First year Ph.D. student <br> at [<a href='https://en.westlake.edu.cn/'>Westlake University</a>]"
+  name             : "Junyao Jiang"
+  avatar           : "P_IMG.jpg"
+  bio              : "Ph.D. Candidate in Bioinformatics"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AmbiOvQAAAAJ"
-  email            : "hulei@westlake.edu.cn"
+  googlescholar    : "#https://scholar.google.com/citations?hl=zh-CN&user=AmbiOvQAAAAJ"
+  email            : "jyjiang@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dbinary"
+  github           : "jiang-junyao"
   google_plus      :
   keybase          :
   instagram        :

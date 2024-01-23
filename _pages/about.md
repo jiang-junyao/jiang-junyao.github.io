@@ -8,55 +8,49 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lei Hu (胡磊), the first year Ph.D. student in [School of Life Sciences](https://sls.westlake.edu.cn/en/), [Westlake University](https://en.westlake.edu.cn/), advised by professor [Hongtao Yu](https://en.westlake.edu.cn/faculty/hongtao-yu.html). I am also the Ph.D. student of [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/) in the program of artificial intelligence and data science, [School of Engineering](https://en-soe.westlake.edu.cn/), co-advised by professor [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). 
+I am a PhD Candidate in Bioinformatics at the School of Life Sciences, Westlake University. I was a former Research Assistant from Jie Wang Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences.
 
-My main research interest focus on AI for life sciences.
+My research focus primarily revolves around the application of statistical and machine learning methods to omics data, specifically single-cell and spatial genomics. I have developed several computational approaches to decipher gene regulations and cross-species conservation. Additionally, I am eager to analyze complex omics data to gain insights into embryonic development and the heterogeneity of cancer.
 
-My academic journey began at the [School of Advanced Engineering](https://gcsxy.ustb.edu.cn) at [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn), where I successfully earned my bachelor's degree in science and engineering. 
-
-In the realm of bioinformatics research, I had the honor of working as a research intern at [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/) advised by [Dr. Yushuai Wu](https://air.tsinghua.edu.cn/airtd/bsh.htm), and  visiting scholar at [School of Chemistry and Biological Engineering, USTB](http://huasheng.ustb.edu.cn/) advised by [Ph.D. Student Zehua Zeng](https://github.com/Starlitnightly) and [Prof. Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html). 
-
-Perviously, I have been fortunate enough to have opportunities to conduct research on [The Innovation Academy for Precision Measurement Science and Technology (APM) of the Chinese Academy of Sciences (CAS)](http://www.apm.cas.cn) and [School of Metallurgical and Ecological Engineering, USTB](https://metall.ustb.edu.cn/). I am also lucky to learn research from [Prof. Fuchun Lin](https://people.ucas.edu.cn/~linfuchun) and [Lecturer Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm).
-
+I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
 ***
 
-# Education
+# Research experience in Bioinformatics/Comp Bio
 
-<img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn/)                           
-&emsp; Ph.D. student in Biology, School of Life Sciences. 2023.08 - Present
+<img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University]                     
+&emsp; Ph.D. Candidate in Computional Biology, School of Life Sciences. 2022.08 - Present
 
-<img src="../images/ustb.png" alt="ustb" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/) （GPA: 3.76/4.0）      
-&emsp; B.E. in Automation, School of Advanced Engineering, advised by Prof. [Hongwu Du](http://huasheng.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2020-06-10/244.html) and Lecturer [Rongbin Li](https://metall.ustb.edu.cn/szdw/szdwxsjs/ysjsyjx1/jsszbsh1/lrb1/index.htm). 2019.09-2023.06
+<img src="../images/ucas.jpg" alt="ucas" style="zoom:28%; float: left" />&emsp; [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences]
+&emsp; Research Assistant, work with Prof [Jie Wang](https://jiewanglab.github.io/us/). 2021.03-2022.06
 
-<img src="../images/ustb.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [University of Science and Technology Beijing](http://en.ustb.edu.cn/)    
-&emsp; B.S. in Biotechnology, School of Chem. and Bio. Engineering. 2020.09-2023.06
+<img src="../images/ustb.png" alt="westlake" style="zoom:28%; float: left" />&emsp; [Singleron Biotech]
+&emsp; Bioinformatician Intern. 2020.12-2022.02
 
-<img src="../images/csu.jpg" alt="westlake" style="zoom:24%; float: left" />&emsp; [Central South University](https://en.csu.edu.cn//) （GPA: 4.0/4.0）   
-&emsp; Exchanged Student, School of Automation, 2021.09-2022.01
-
-***
-
-# Recent Publications
-
-$\mit{Preprint}$
-
-[1] Zehua Zeng\*, Yuqing Ma\*, **Lei Hu\***, Peng Liu, Bowen Tan, Yixuan Wang, Yuanyan Xiong, Hongwu Du, **OmicVerse: A single pipeline for exploring the entire transcriptome universe**, *bioRxiv, 2023: 2023.06. 06.543913.*. [[BioRxiv](https://doi.org/10.1101/2023.06.06.543913)] **(Nature Communications, major revision)**
-
-[2] Yihan Zhao\*, Peng Liu\*, **Lei Hu**\*, Mingxi Ke, Nan Min, Zehua Zeng, Hongwu Du, **Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma at Single-Cell Resolution**, *bioRxiv, 2023: 2023.05. 10.540147.*. [[BioRxiv](https://doi.org/10.1101/2023.05.10.540147)]
-
-[3] Zehua Zeng\*, Cencang Xing\*, **Lei Hu**\*, Shah Roshan, Yuanyan Xiong, Hongwu Du, **Identify the origin and end cells and infer the trajectory of cellular fate automatically**, *bioRxiv, 2022: 2022.09. 28.510020.*. [[BioRxiv](https://doi.org/10.1101/2022.09.28.510020)]
+<img src="../images/cuhk.png" alt="cuhk" style="zoom:24%; float: left" />&emsp; [Chinese University of Hong Kong]
+&emsp; Master, School of Biomedical Science, advised by Prof TSUI Kwok Wing. 2020.09-2021.11
 
 ***
 
-# Award
-+ Dean Award **(Top Award of Undergraduate Students)**
-+ "San Hao" Graduates
-+ Outstanding Graduation Thesis of USTB
-+ Tongda Scholarship **(1/146)**
-+ Zhongtian Steel Scholarship
-+ Huawei Intelligent Base Scholarship
-+ People Scholarship (First Class)
-+ Outstanding "San Hao" Student 
+# Publications
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
+$\mit{Methods & Software}$
+
+[1] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. **IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles**. iscience, Oct 2022
+
+[2] Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. **LRLoop: Feedback loops as a design principle of cell-cell communication**. Bioinformatics, July 2022
+
+$\mit{Applications}$
+
+[1] Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Junyao Jiang**, et al. **DNA hypermethylation modification promotes the development of hepatocellular carcinoma by depressing the tumor suppressor gene ZNF334**. Cell Death & Disease, May 2022
+
+***
+
+# Maintained Software
++ [IReNA]() Consturct gene regualtory networks based on single cell multiomics data
++ [CACIMAR]() scRNA-seq based cross-species data analysis
++ [FateMapper]() single cell lineage tracing data analysis and visualization
++ [scLTdb]() Database for single cell lineage tracing
+
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
