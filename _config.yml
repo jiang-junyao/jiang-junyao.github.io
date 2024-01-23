@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Junyao Jiang"
-  avatar           : "P_IMG.jpg"
+  avatar           : "images/P_IMG.jpg"
   bio              : "Ph.D. Candidate in Bioinformatics"
   location         : "Hangzhou, China"
   employer         :
