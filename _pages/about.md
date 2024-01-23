@@ -24,10 +24,10 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 <img src="../images/ucas.jpg" alt="ucas" style="zoom:24%; float: left" />&emsp; [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences]
 &emsp; Research Assistant, work with Prof [Jie Wang](https://jiewanglab.github.io/us/). 2021.03-2022.06
 
-<img src="../images/si.png" alt="westlake" style="zoom:12%; float: left" />&emsp; [Singleron Biotech]
+<img src="../images/si.png" alt="westlake" style="zoom:8%; float: left" />&emsp; [Singleron Biotech]
 &emsp; Bioinformatician Intern. 2020.12-2022.02
 
-<img src="../images/cuhk.png" alt="cuhk" style="zoom:5%; float: left" />&emsp; [Chinese University of Hong Kong]
+<img src="../images/cuhk.png" alt="cuhk" style="zoom:6%; float: left" />&emsp; [Chinese University of Hong Kong]
 &emsp; Master, School of Biomedical Science, advised by Prof TSUI Kwok Wing. 2020.09-2021.11
 
 ***
