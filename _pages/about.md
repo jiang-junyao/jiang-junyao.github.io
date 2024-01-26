@@ -14,22 +14,29 @@ My research focus primarily revolves around the application of statistical and m
 
 I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
+**Key words:** single cell & spatial genomics, machine learning, system biology
+
 ***
 
 # Research experience in Bioinformatics/Comp Bio
 
-<img src="../images/westlake_logo.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Westlake University](https://www.westlake.edu.cn)                     
-&emsp; Ph.D. Candidate in Computional Biology, School of Life Sciences. 2022.08 - Present
+Phd Candidate in **computional biology** at [Westlake University](https://www.westlake.edu.cn)                     
+- Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
+- Using single cell lineage tracing technolog to study embroy development
+- ......
 
-<img src="../images/ucas.jpg" alt="westlake" style="zoom:9.8%; float: left" />&emsp; [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/)
-&emsp; Research Assistant, work with Prof [Jie Wang](https://jiewanglab.github.io/us/). 2021.03-2022.06
+Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/). 2021.03-2022.06
+- Develop IReNA to reconstruct GRN based on single cell multiomics data
+- Develop CACIMAR to perform cross-species analysis based on scRNA-seq data
+- Analyze DNA methylation and scRNA-seq data to study hepatic carcinoma.
 
-<img src="../images/si.png" alt="westlake" style="zoom:9%; float: left" />&emsp; [Singleron Biotech](https://singleron.bio/)
-&emsp; Bioinformatician Intern. 2020.12-2022.02
+Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2022.02
+- Integrate large scale public scRNA-seq data to evaluate PBMC immu cell functions
+- Develop fast single cell multiomics data analysis pipeplines.
 
-Master in **Genomics & Bioinformatics**. 2020.09-2021.11
-- [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html)
-- Final dissertation mentor: [Prof TSUI Kwok Wing](https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-tsui-kwok-wing-stephen). 
+Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). 2020.09-2021.11.
+- Analyze whole genome sequencing data to study bacteria evolution
+- Analyze bulk and single cell RNA-seq data to study hepatic carcinoma, advised by [Prof TSUI Kwok Wing](https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-tsui-kwok-wing-stephen). 
 
 ***
 
