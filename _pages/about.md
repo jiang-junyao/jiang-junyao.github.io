@@ -20,7 +20,7 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 
 # Research experience in Bioinformatics/Comp Bio
 
-Phd Candidate in **computional biology** at [Westlake University](https://www.westlake.edu.cn)                     
+Phd Candidate in **computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present           
 - Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
 - Using single cell lineage tracing technolog to study embroy development
 - ......
@@ -30,7 +30,7 @@ Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese A
 - Develop CACIMAR to perform cross-species analysis based on scRNA-seq data
 - Analyze DNA methylation and scRNA-seq data to study hepatic carcinoma.
 
-Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2022.02
+Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2021.02
 - Integrate large scale public scRNA-seq data to evaluate PBMC immu cell functions
 - Develop fast single cell multiomics data analysis pipeplines.
 
