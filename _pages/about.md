@@ -36,9 +36,9 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 
 $\mit{Methodology}$
 
-[1] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022
+[1] **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
 
-[2] **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024
+[2] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (2022 impact factor 6.1)
 
 [3] Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
