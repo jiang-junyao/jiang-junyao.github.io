@@ -28,7 +28,7 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 &emsp; Bioinformatician Intern. 2020.12-2022.02
 
 Master in **Genomics & Bioinformatics**. 2020.09-2021.11
-[Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html)
+&emsp; [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html)
 &emsp; Final dissertation mentor: [Prof TSUI Kwok Wing](https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-tsui-kwok-wing-stephen). 
 
 ***
