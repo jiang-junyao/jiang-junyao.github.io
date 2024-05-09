@@ -44,7 +44,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 $\mit{Methds}$ $\mit{and}$ $\mit{Database}$
 
-[1] YunHui Kong\*,  **Junyao Jiang**\*, WeiKang Kong, Sheng Qin. DRCTdb: Disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. **ResearchSquare**, April 2024
+[1] YunHui Kong\*,  **Junyao Jiang**\*, WeiKang Kong, Sheng Qin. DRCTdb: Disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***ResearchSquare***, April 2024 (preprint)
 
 [2] **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
 
