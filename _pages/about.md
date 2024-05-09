@@ -42,17 +42,21 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 # Publications
 
-$\mit{Methdology}$
+$\mit{Methds}$ $\mit{and}$ $\mit{Database}$
 
-[1] **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
+[1] YunHui Kong\*,  **Junyao Jiang**\*, WeiKang Kong, Sheng Qin. DRCTdb: Disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. **ResearchSquare**, April 2024
 
-[2] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (2022 impact factor 6.1)
+[2] **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
 
-[3] Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
+[3] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (2022 impact factor 6.1)
+
+[4] Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
 $\mit{Biology}$
 
 [1] Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Junyao Jiang**, et al. DNA hypermethylation modification promotes the development of hepatocellular carcinoma by depressing the tumor suppressor gene ZNF334. ***Cell Death & Disease***, May 2022
+
+
 
 ***
 
