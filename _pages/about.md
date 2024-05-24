@@ -20,7 +20,7 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 
 # Research experience in Bioinformatics/Comp Bio
 
-Phd Candidate in **Computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present           
+Phd Candidate in **Computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
 - Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
 - Using single cell lineage tracing technolog to study embroy development
 - ......
@@ -30,11 +30,11 @@ Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese A
 - Develop CACIMAR to perform cross-species analysis based on scRNA-seq data
 - Analyze DNA methylation and scRNA-seq data to study hepatic carcinoma.
 
-Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2021.02
+Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2021.02 (Just run pipeline, boring......)
 - Integrate large scale public scRNA-seq data to evaluate PBMC immu cell functions
 - Develop fast single cell multiomics data analysis pipeplines.
 
-Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). 2020.09-2021.11.
+Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). 2020.09-2021.11 (Where my bioinformatics journey begin)
 - Analyze whole genome sequencing data to study bacteria evolution
 - Analyze bulk and single cell RNA-seq data to study hepatic carcinoma, advised by [Prof TSUI Kwok Wing](https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-tsui-kwok-wing-stephen). 
 
@@ -44,7 +44,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 *: co-first, #: correspondence
 
-$\mit{Methds}$ $\mit{Methds}$
+$\mit{Methodology}$
 
 **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
 
