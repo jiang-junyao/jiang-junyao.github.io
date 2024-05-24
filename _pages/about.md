@@ -20,12 +20,12 @@ I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180K
 
 # Research experience in Bioinformatics/Comp Bio
 
-Phd Candidate in **computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present           
+Phd Candidate in **Computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present           
 - Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
 - Using single cell lineage tracing technolog to study embroy development
 - ......
 
-Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/). 2021.03-2022.06
+Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/). 2021.03-2022.06 (Get computational biology training here, with great gratitude to Professor [Jie Wang](https://jiewanglab.github.io/us/))
 - Develop IReNA to reconstruct GRN based on single cell multiomics data
 - Develop CACIMAR to perform cross-species analysis based on scRNA-seq data
 - Analyze DNA methylation and scRNA-seq data to study hepatic carcinoma.
@@ -42,21 +42,23 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 # Publications
 
-$\mit{Methds}$ $\mit{and}$ $\mit{Database}$
+*: co-first, #: correspondence
 
-[1] YunHui Kong\*,  **Junyao Jiang**\*, WeiKang Kong, Sheng Qin. DRCTdb: Disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***ResearchSquare***, April 2024 (preprint)
+$\mit{Methds}$ $\mit{Methds}$
 
-[2] **Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
+**Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Biorxiv***, Jan 2024 (preprint)
 
-[3] **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (2022 impact factor 6.1)
+**Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (2022 impact factor 6.1)
 
-[4] Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
+Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
-$\mit{Biology}$
+$\mit{Data}$ $\mit{analysis}$
 
-[1] Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Junyao Jiang**, et al. DNA hypermethylation modification promotes the development of hepatocellular carcinoma by depressing the tumor suppressor gene ZNF334. ***Cell Death & Disease***, May 2022
+Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Junyao Jiang**, et al. DNA hypermethylation modification promotes the development of hepatocellular carcinoma by depressing the tumor suppressor gene ZNF334. ***Cell Death & Disease***, May 2022
 
+$\mit{Database}$
 
+YunHui Kong\*,  **Junyao Jiang**\*\#, WeiKang Kong, Sheng Qin. DRCTdb: Disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***ResearchSquare***, April 2024 (preprint)
 
 ***
 
