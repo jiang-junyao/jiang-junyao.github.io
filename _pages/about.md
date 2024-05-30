@@ -46,7 +46,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 $\mit{Methodology}$
 
-**Junyao Jiang**\*, Jinlian Li\*, Xueli Xu, Sunan Huang, Fan Jiang, Yanran Liang, Jie Wang. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Briefing in bioinformatics***, June 2024 (Impact factor 9.5)
+**Junyao Jiang**\*, Jinlian Li\*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang#. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Briefing in Bioinformatics***, Accepted (Impact factor 9.5)
 
 **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (Impact factor 6.1)
 
