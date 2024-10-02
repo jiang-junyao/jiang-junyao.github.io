@@ -53,13 +53,13 @@ $\mit{Methodology}$
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
+$\mit{Database}$
+
+**Junyao Jiang**\*, Xing Ye\*, Yunhui Kong\*, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei#. scLTdb: a comprehensive single cell lineage tracing database. ***Nucleic Acids Research***, Oct 2024 (Accepted) (Impact factor 16.6)
+
 $\mit{Data}$ $\mit{analysis}$
 
 Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Junyao Jiang**, et al. DNA hypermethylation modification promotes the development of hepatocellular carcinoma by depressing the tumor suppressor gene ZNF334. ***Cell Death & Disease***, May 2022
-
-$\mit{Database}$
-
-YunHui Kong\*,  **Junyao Jiang**\*\#, WeiKang Kong, Sheng Qin. DRCTdb: Disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***ResearchSquare***, April 2024 (preprint)
 
 ***
 
