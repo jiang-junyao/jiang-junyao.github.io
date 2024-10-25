@@ -41,27 +41,15 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 ***
 
-<table>
-  <tr>
-    <td>
-      <!-- 在这里插入你的图片 -->
-      <img src="../images/caciamr.png" width="500" />
-    </td>
-    <td>
-      <!-- 这个单元格将保持空白 -->
-    </td>
-    <td>
-      <!-- 在这里插入你的文本 -->
-      gene regulatory network analysis  
-      jiangjunyao, yunhuikong
-
-    </td>
-  </tr>
-</table>
-
-<img src="../images/caciarm.png" alt="Image" style="float:left; margin-right:20px;">
-<p>gene regulatory network analysis<br>jiangjunyao, yunhuikong</p>
-<div style="clear:both;"></div> <!-- 清除浮动 -->
+<table class="imgtable"><tr><td>
+    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
+    <td align="left"><p>
+        <font size="2pt" face="Georgia"><b><a href= "https://arxiv.org/pdf/2407.14768" target="_blank" style="color:#2a7ce0">Teach Harder, Learn Poorer: Rethinking Hard Sample Distillation for GNN-to-MLP Distillation</a></b></font><br>
+        <i> <b>Lirong Wu</b>, Yunfan Liu, Haitao Lin, Yufei Huang, and Stan Z. Li </a></i><br><i><b>CIKM, 2024</b></i><br>
+        [<a href= "https://arxiv.org/pdf/2407.14768" target="_blank" style="color:#2a7ce0">PDF</a>] 
+        [<a href="https://github.com/LirongWu/HGMD" target="_blank" style="color:#2a7ce0">Code</a>]
+        [<a href="./Files/CIKM_2024_HGMD_bibtex.html" target="_blank" style="color:#2a7ce0">BibTeX</a>] <br>
+</p></td></tr></table>
 
 # Publications
 
