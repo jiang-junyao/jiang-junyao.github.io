@@ -56,7 +56,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="240px" />&nbsp;</td>
+    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="290px" />&nbsp;</td>
     <td align="left"><p>
         <font size="2pt" face="Georgia"><b><a href= "https://academic.oup.com/bib/article/25/4/bbae283/7690342" target="_blank" style="color:#2a7ce0">CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </i><br><i><b>Briefing in Bioinformatics, June 2024, IF 9.5</b></i><br>
