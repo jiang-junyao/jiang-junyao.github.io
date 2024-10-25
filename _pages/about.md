@@ -45,7 +45,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 *: co-first, #: correspondence
 
-<font size="3"> 
+<font size="5"> 
 <ul>
 
 <table class="imgtable"><tr><td>
