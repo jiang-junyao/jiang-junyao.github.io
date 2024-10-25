@@ -75,6 +75,8 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </ul>
 </font>
 
+<br />
+
 # Other Publications
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
