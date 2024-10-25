@@ -45,7 +45,6 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 *: co-first, #: correspondence
 
-<font size="5"> 
 <ul>
 
 <table class="imgtable"><tr><td>
@@ -73,13 +72,12 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 </ul>
-</font>
 
 ***
 
 # Other Publications
 
-Yunhui Kong\*, **Junyao Jiang\*\,#**, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
+Yunhui Kong\*, **Junyao Jiang\*,#**, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
