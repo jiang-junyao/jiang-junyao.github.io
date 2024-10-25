@@ -48,7 +48,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 <ul>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/scltdb.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
+    <img src="../images/scltdb.jpg" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
         <font size="2pt" face="Georgia"><b><a href= "" target="_blank" style="color:#2a7ce0">scLTdb: a comprehensive single cell lineage tracing database</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Xing Ye*, Yunhui Kong*, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei# </i><br><i><b>Nucleic Acids Research, Oct 2024, IF 16.6</b></i><br>
@@ -56,7 +56,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
+    <img src="../images/cacimar.jpg" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
         <font size="2pt" face="Georgia"><b><a href= "https://academic.oup.com/bib/article/25/4/bbae283/7690342" target="_blank" style="color:#2a7ce0">CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </i><br><i><b>Briefing in Bioinformatics, June 2024, IF 9.5</b></i><br>
@@ -64,7 +64,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/irena.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
+    <img src="../images/irena.jpg" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
         <font size="2pt" face="Georgia"><b><a href= "https://www.cell.com/iscience/pdf/S2589-0042(22)01631-5.pdf" target="_blank" style="color:#2a7ce0">IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Pin Lyu*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang</i><br><i><b>iscience, JOct 2022, IF 6.1</b></i><br>
@@ -77,7 +77,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 # Other Publications
 
-Yunhui Kong\*, **Junyao Jiang\*,#**, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
+Yunhui Kong\*, **Junyao Jiang**\*\,\#, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
@@ -91,5 +91,6 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 + [FateMapper]() single cell lineage tracing data analysis and visualization
 + [scLTdb]() Database for single cell lineage tracing
 
+Trainee
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
