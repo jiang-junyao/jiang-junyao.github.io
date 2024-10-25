@@ -48,7 +48,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 <ul>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/scltdb.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="260px" />&nbsp;</td>
+    <img src="../images/scltdb.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
         <font size="3pt" face="Georgia"><b><a href= "" target="_blank" style="color:#2a7ce0">scLTdb: a comprehensive single cell lineage tracing database</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Xing Ye*, Yunhui Kong*, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei# </i><br><i><b>Nucleic Acids Research, Oct 2024, IF 16.6</b></i><br>
@@ -64,7 +64,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/irena.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="270px" />&nbsp;</td>
+    <img src="../images/irena.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="275px" />&nbsp;</td>
     <td align="left"><p>
         <font size="3pt" face="Georgia"><b><a href= "https://www.cell.com/iscience/pdf/S2589-0042(22)01631-5.pdf" target="_blank" style="color:#2a7ce0">IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Pin Lyu*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang</i><br><i><b>iscience, JOct 2022, IF 6.1</b></i><br>
