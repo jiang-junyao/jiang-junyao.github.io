@@ -59,6 +59,10 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
   </tr>
 </table>
 
+<img src="../images/caciarm.png" alt="Image" style="float:left; margin-right:20px;">
+<p>gene regulatory network analysis<br>jiangjunyao, yunhuikong</p>
+<div style="clear:both;"></div> <!-- 清除浮动 -->
+
 # Publications
 
 *: co-first, #: correspondence
