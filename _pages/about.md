@@ -56,7 +56,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="365px" />&nbsp;</td>
+    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="370px" />&nbsp;</td>
     <td align="left"><p>
         <font size="3pt" face="Georgia"><b><a href= "https://academic.oup.com/bib/article/25/4/bbae283/7690342" target="_blank" style="color:#2a7ce0">CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </i><br><i><b>Briefing in Bioinformatics, June 2024, IF 9.5</b></i><br>
@@ -67,7 +67,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
     <img src="../images/irena.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="340px" />&nbsp;</td>
     <td align="left"><p>
         <font size="3pt" face="Georgia"><b><a href= "https://www.cell.com/iscience/pdf/S2589-0042(22)01631-5.pdf" target="_blank" style="color:#2a7ce0">IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles</a></b></font><br>
-        <i> <b>Junyao Jiang*</b>, Pin Lyu*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang</i><br><i><b>iscience, JOct 2022, IF 6.1</b></i><br>
+        <i> <b>Junyao Jiang*</b>, Pin Lyu*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang</i><br><i><b>iscience, Oct 2022, IF 6.1</b></i><br>
         <b>Keywords: Single cell genomics, Gene regulatory network</b><br>
 </p></td></tr></table>
 
@@ -78,7 +78,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 # Other Publications
 
-Yunhui Kong\*, **Junyao Jiang**\*\,\#, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
+Yunhui Kong\*, **Junyao Jiang**^(*,#), Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
