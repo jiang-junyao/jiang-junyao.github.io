@@ -46,11 +46,19 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 *: co-first, #: correspondence
 
 <table class="imgtable"><tr><td>
+    <img src="../images/scltdb.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
+    <td align="left"><p>
+        <font size="2pt" face="Georgia"><b><a href= "" target="_blank" style="color:#2a7ce0">scLTdb: a comprehensive single cell lineage tracing database</a></b></font><br>
+        <i> <b>Junyao Jiang*</b>, Xing Ye*, Yunhui Kong*, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei# </a></i><br><i><b>Nucleic Acids Research 2024 IF 16.6</b></i><br>
+        <b>Keywords: Single cell genomics, Lineage tracing, Cell fate</b><br>
+</p></td></tr></table>
+
+<table class="imgtable"><tr><td>
     <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
-        <font size="2pt" face="Georgia"><b><a href= "https://arxiv.org/pdf/2407.14768" target="_blank" style="color:#2a7ce0">Teach Harder, Learn Poorer: Rethinking Hard Sample Distillation for GNN-to-MLP Distillation</a></b></font><br>
+        <font size="2pt" face="Georgia"><b><a href= "https://academic.oup.com/bib/article/25/4/bbae283/7690342" target="_blank" style="color:#2a7ce0">CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </a></i><br><i><b>Briefing in Bioinformatics June 2024 IF 9.5</b></i><br>
-        <i> <b>Single cell genomics, cross-species analysis</b></i><br>
+        <b>Keywords: Single cell genomics, Cross-species analysis</b><br>
 </p></td></tr></table>
 
 **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (Impact factor 6.1)
