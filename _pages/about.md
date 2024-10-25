@@ -12,10 +12,9 @@ I am a PhD Candidate in Bioinformatics at the School of Life Sciences, Westlak
 
 My research focus primarily revolves around the application of statistical and machine learning methods to omics data, specifically single-cell and spatial genomics. I have developed several computational approaches to decipher gene regulations and cross-species conservation. Additionally, I am eager to analyze complex omics data to gain insights into embryonic development and the heterogeneity of cancer.
 
-I am also an amateur bodybuilder with 120KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
+I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
 **Research Keywords:** single cell & spatial genomics, machine learning, system biology
-**Advocacy:** equality, freedom
 
 ***
 
@@ -72,13 +71,14 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 
+
 </ul>
 
 ***
 
 # Other Publications
 
-Yunhui Kong\*, **Junyao Jiang**^(*,#), Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024
+Yunhui Kong\*, **Junyao Jiang**\*,#, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024 (Co-first & Co-correspondence)
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
@@ -87,10 +87,10 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 ***
 
 # Maintained Software
-+ [IReNA]() Consturct gene regualtory networks based on single cell multiomics data
-+ [CACIMAR]() scRNA-seq based cross-species data analysis
-+ [FateMapper]() single cell lineage tracing data analysis and visualization
-+ [scLTdb]() Database for single cell lineage tracing
++ [IReNA](https://github.com/jiang-junyao/IReNA) Consturct gene regualtory networks based on single cell multiomics data
++ [CACIMAR](https://github.com/jiang-junyao/CACIMAR) scRNA-seq based cross-species data analysis
++ [FateMapper](https://github.com/jiang-junyao/FateMapper) single cell lineage tracing data analysis and visualization
++ [scLTdb](https://scltdb.com) Database for single cell lineage tracing
 
 # Trainee
 
