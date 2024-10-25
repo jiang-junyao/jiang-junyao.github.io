@@ -49,21 +49,21 @@ $\mit{Methodology}$
 
 **Junyao Jiang**\*, Jinlian Li\*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang#. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Briefing in Bioinformatics***, June 2024 (Impact factor 9.5)
 
-+ single cell genomics + cross species analysis
++ single cell genomics; cross species analysis
 
 **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (Impact factor 6.1)
 
-+ single cell genomics  + gene regulatory networks
++ single cell genomics; gene regulatory networks
 
 Ying Xin\*, Pin Lyu\*, **Junyao Jiang**, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian. LRLoop: Feedback loops as a design principle of cell-cell communication. ***Bioinformatics***, July 2022
 
-+ single cell genomics  + cell-cell communications
++ single cell genomics; cell-cell communications
 
-$\mit{Web}$ $\mit{tools}$ $\mit{&}$ $\mit{database}$
+$\mit{Web}$ $\mit{tools}$ $\mit{and}$ $\mit{database}$
 
 **Junyao Jiang**\*, Xing Ye\*, Yunhui Kong\*, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei#. scLTdb: a comprehensive single cell lineage tracing database. ***Nucleic Acids Research***, Oct 2024 (Accepted) (Impact factor 16.6)
 
-+ single cell genomics + lineage tracing + cell fate
++ single cell genomics; lineage tracing; cell fate
 
 $\mit{Data}$ $\mit{analysis}$
 
