@@ -45,6 +45,9 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 *: co-first, #: correspondence
 
+<font size="3"> 
+<ul>
+
 <table class="imgtable"><tr><td>
     <img src="../images/scltdb.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
@@ -60,6 +63,10 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
         <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </a></i><br><i><b>Briefing in Bioinformatics June 2024 IF 9.5</b></i><br>
         <b>Keywords: Single cell genomics, Cross-species analysis</b><br>
 </p></td></tr></table>
+
+
+</ul>
+</font>
 
 **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (Impact factor 6.1)
 
