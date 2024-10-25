@@ -56,7 +56,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 </p></td></tr></table>
 
 <table class="imgtable"><tr><td>
-    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="360px" />&nbsp;</td>
+    <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="365px" />&nbsp;</td>
     <td align="left"><p>
         <font size="3pt" face="Georgia"><b><a href= "https://academic.oup.com/bib/article/25/4/bbae283/7690342" target="_blank" style="color:#2a7ce0">CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data</a></b></font><br>
         <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </i><br><i><b>Briefing in Bioinformatics, June 2024, IF 9.5</b></i><br>
@@ -94,6 +94,6 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 # Trainee
 
-Xing Ye, undergraduate from USTC, 2023-2024. Co-first author at scLTdb project.
+**Xing Ye**: undergraduate from USTC, 2023-2024, now Ph.D student at Westlake University. (Co-first author at scLTdb project)
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
