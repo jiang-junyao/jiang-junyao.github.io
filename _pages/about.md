@@ -45,7 +45,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
   <tr>
     <td>
       <!-- 在这里插入你的图片 -->
-      ![Image](../images/caciarm.png)
+      <img src="../images/caciamr.png" width="500" />
     </td>
     <td>
       <!-- 这个单元格将保持空白 -->
