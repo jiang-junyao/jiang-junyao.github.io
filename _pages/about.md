@@ -41,25 +41,17 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 ***
 
+# Selected Publications
+
+*: co-first, #: correspondence
+
 <table class="imgtable"><tr><td>
     <img src="../images/cacimar.png" style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="220px" />&nbsp;</td>
     <td align="left"><p>
         <font size="2pt" face="Georgia"><b><a href= "https://arxiv.org/pdf/2407.14768" target="_blank" style="color:#2a7ce0">Teach Harder, Learn Poorer: Rethinking Hard Sample Distillation for GNN-to-MLP Distillation</a></b></font><br>
-        <i> <b>Lirong Wu</b>, Yunfan Liu, Haitao Lin, Yufei Huang, and Stan Z. Li </a></i><br><i><b>CIKM, 2024</b></i><br>
-        [<a href= "https://arxiv.org/pdf/2407.14768" target="_blank" style="color:#2a7ce0">PDF</a>] 
-        [<a href="https://github.com/LirongWu/HGMD" target="_blank" style="color:#2a7ce0">Code</a>]
-        [<a href="./Files/CIKM_2024_HGMD_bibtex.html" target="_blank" style="color:#2a7ce0">BibTeX</a>] <br>
+        <i> <b>Junyao Jiang*</b>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang# </a></i><br><i><b>Briefing in Bioinformatics June 2024 IF 9.5</b></i><br>
+        <i> <b>Single cell genomics, cross-species analysis</b></i><br>
 </p></td></tr></table>
-
-# Publications
-
-*: co-first, #: correspondence
-
-$\mit{Methodology}$
-
-**Junyao Jiang**\*, Jinlian Li\*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang#. CACIMAR: Cross-species Analysis of Cell Identities, Markers, Regulations and Interactions Using Single-cell RNA Sequencing Data. ***Briefing in Bioinformatics***, June 2024 (Impact factor 9.5)
-
-+ single cell genomics; cross species analysis
 
 **Junyao Jiang**\*, Pin Lyu\*, Jinlian Li\*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang. IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles. ***iscience***, Oct 2022 (Impact factor 6.1)
 
