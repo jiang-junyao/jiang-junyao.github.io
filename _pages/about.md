@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Bioinformatics at the School of Life Sciences, Westlake University. I was a former Research Assistant from Jie Wang Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences.
+I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University. I was a former Research Assistant from Jie Wang Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences.
 
 My research focus primarily revolves around the application of statistical and machine learning methods to omics data, specifically single-cell and spatial genomics. I have developed several computational approaches to decipher gene regulations and cross-species conservation. Additionally, I am eager to analyze complex omics data to gain insights into embryonic development and the heterogeneity of cancer.
 
