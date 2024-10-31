@@ -20,7 +20,7 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 # Research experience in Bioinformatics/Comp Bio
 
-Phd Candidate in **Computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
+Ph.d Candidate in **Computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
 - Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
 - Using single cell lineage tracing technolog to study embroy development
 - ......

@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Junyao Jiang"
   avatar           : "PIMG.jpg"
-  bio              : "Ph.D. Candidate in Bioinformatics"
+  bio              : "Ph.D. Candidate in Biology (Computional biology)"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "#https://scholar.google.com/citations?hl=zh-CN&user=AmbiOvQAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=7mutOvgAAAAJ&hl=zh-CN"
   email            : "jyjiang@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
