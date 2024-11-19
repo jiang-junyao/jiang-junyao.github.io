@@ -20,7 +20,7 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 # Research experience in Bioinformatics/Comp Bio
 
-Ph.d Candidate in **Computional biology** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
+Ph.d Candidate in **Biology (Computional Biology)** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
 - Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
 - Using single cell lineage tracing technolog to study embroy development
 - ......
@@ -92,8 +92,8 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 + [FateMapper](https://github.com/jiang-junyao/FateMapper) single cell lineage tracing data analysis and visualization
 + [scLTdb](https://scltdb.com) Database for single cell lineage tracing
 
-# Trainee
+# Mentorship
 
-**Xing Ye**: undergraduate from USTC, 2023-2024, now Ph.D student at Westlake University. (Co-first author at scLTdb project)
+**Xing Ye**: Undergraduate from University of Science and Technology of China, 2023.11-2024.06. (Co-first author at scLTdb project)
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
