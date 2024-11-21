@@ -18,25 +18,18 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 ***
 
-# 🚩 Research experience in Bioinformatics/Comp Bio
+# 🚩 Professional Experience in Bioinformatics/Computional Biology
 
-Ph.d Candidate in **Biology (Computional Biology)** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
-- Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
-- Using single cell lineage tracing technolog to study embroy development
-- ......
+- Ph.d Candidate in **Biology (Computional Biology)** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present 
 
-Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/). 2021.03-2022.06 (Get computational biology training here, with great gratitude to Professor [Jie Wang](https://jiewanglab.github.io/us/))
-- Develop IReNA to reconstruct GRN based on single cell multiomics data
-- Develop CACIMAR to perform cross-species analysis based on scRNA-seq data
-- Analyze DNA methylation and scRNA-seq data to study hepatic carcinoma.
 
-Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2021.02 (Just run pipeline, boring......)
-- Integrate large scale public scRNA-seq data to evaluate PBMC immu cell functions
-- Develop fast single cell multiomics data analysis pipeplines.
+- Research Assistant at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/). 2021.03-2022.06 (Get computational biology training here, with great gratitude to Professor [Jie Wang](https://jiewanglab.github.io/us/))
 
-Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). 2020.09-2021.11 (Where my bioinformatics journey begin)
-- Analyze whole genome sequencing data to study bacteria evolution
-- Analyze bulk and single cell RNA-seq data to study hepatic carcinoma, advised by [Prof TSUI Kwok Wing](https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-tsui-kwok-wing-stephen). 
+
+- Bioinformatician Intern at [Singleron Biotech](https://singleron.bio/). 2020.12-2021.02 (Just run pipeline, boring......)
+
+
+- Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). 2020.09-2021.11 (Where my bioinformatics journey begin)
 
 ***
 
@@ -86,13 +79,13 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ***
 
-# Maintained Software
+# 💻 Maintained Software
 + [IReNA](https://github.com/jiang-junyao/IReNA) Consturct gene regualtory networks based on single cell multiomics data
 + [CACIMAR](https://github.com/jiang-junyao/CACIMAR) scRNA-seq based cross-species data analysis
 + [FateMapper](https://github.com/jiang-junyao/FateMapper) single cell lineage tracing data analysis and visualization
 + [scLTdb](https://scltdb.com) Database for single cell lineage tracing
 
-# Mentorship
+# 📛 Mentorship
 
 **Xing Ye**: Undergraduate from University of Science and Technology of China, 2023.11-2024.06. (Co-first author at scLTdb project)
 
