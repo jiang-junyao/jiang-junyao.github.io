@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by Prof Weike Pei. Before i joined Westlake University, I worked with Professor [Jie Wang](https://jiewanglab.github.io/us/) at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/).
+I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by Prof Weike Pei & Prof Yanxiao Zhang. Before i joined Westlake University, I worked with Professor [Jie Wang](https://jiewanglab.github.io/us/) at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/).
 
 I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
-# 📡 Research Interset
+## 📡 Research Interset
 
 - Developing computational tools for single-cell genomics and spatial genomics
 - Constructing large-scale cell atlas based on cutting-edge sequencing technologies
@@ -20,7 +20,7 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 ***
 
-# 🚩 Professional Experience in Computional Biology
+## 🚩 Professional Experience in Computional Biology
 
 - Ph.d Candidate in **Biology (Computional Biology)** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present 
 
@@ -35,7 +35,7 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 ***
 
-# 📝 Selected Publications
+## 📝 Selected Publications
 
 *: co-first, #: correspondence
 
@@ -71,7 +71,7 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 ***
 
-# 📝 Other Publications
+## 📝 Other Publications
 
 Yunhui Kong\*, **Junyao Jiang**\*,#, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024 (Co-first & Co-correspondence)
 
@@ -81,14 +81,25 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ***
 
-# 💻 Maintained Software
+## 💻 Maintained Software
 + [IReNA](https://github.com/jiang-junyao/IReNA) Consturct gene regualtory networks based on single cell multiomics data
 + [CACIMAR](https://github.com/jiang-junyao/CACIMAR) scRNA-seq based cross-species data analysis
 + [FateMapper](https://github.com/jiang-junyao/FateMapper) single cell lineage tracing data analysis and visualization
 + [scLTdb](https://scltdb.com) Database for single cell lineage tracing
 
-# 📛 Mentorship
+***
+
+## 📛 Mentorship
 
 **Xing Ye**: Undergraduate from University of Science and Technology of China, 2023.11-2024.06. (Co-first author at scLTdb project)
+
+***
+
+## 🉑 Life
+
+The Day of Deadlifts
+
+<iframe height=498 width=510 src="../images/v1.mp4">
+
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
