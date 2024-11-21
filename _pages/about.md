@@ -18,7 +18,7 @@ I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180K
 
 ***
 
-# Research experience in Bioinformatics/Comp Bio
+# 🚩 Research experience in Bioinformatics/Comp Bio
 
 Ph.d Candidate in **Biology (Computional Biology)** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present (I will comment this experience after i earn PHD degree (if possible?))
 - Apply machine learning and statistic methods on single cell multiomics & spatial genomics data
@@ -40,7 +40,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 ***
 
-# Selected Publications
+# 📝 Selected Publications
 
 *: co-first, #: correspondence
 
@@ -76,7 +76,7 @@ Master in **Genomics & Bioinformatics** at [Chinese University of Hong Kong](htt
 
 ***
 
-# Other Publications
+# 📝 Other Publications
 
 Yunhui Kong\*, **Junyao Jiang**\*,#, Weikang Kong, Sheng Qin#. DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms. ***Communications Biology***, Sep 2024 (Co-first & Co-correspondence)
 
