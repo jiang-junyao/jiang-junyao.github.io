@@ -97,13 +97,6 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ***
 
-## 🉑 Life
-
-The Day of Deadlifts (170KG)
-
-<iframe height=250 width=250 src="../images/v1.mp4">
-
-## Contact
 
 
 
