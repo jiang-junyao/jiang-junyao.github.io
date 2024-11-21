@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University. I was a former Research Assistant from Jie Wang Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences.
-
-My research focus primarily revolves around the application of statistical and machine learning methods to omics data, specifically single-cell and spatial genomics. I have developed several computational approaches to decipher gene regulations and cross-species conservation. Additionally, I am eager to analyze complex omics data to gain insights into embryonic development and the heterogeneity of cancer.
+I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by Prof Weike Pei. Before i joined Westlake University, I worked with Professor [Jie Wang](https://jiewanglab.github.io/us/) at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/).
 
 I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
-**Research Keywords:** single cell & spatial genomics, machine learning, system biology
+# 📡 Research Interset
+
+- Developing computational tools for single-cell genomics and spatial genomics
+- Constructing large-scale cell atlas based on cutting-edge sequencing technologies
+- Investigating regulatory mechanisms in cell fate decision and disease occurrence
 
 ***
 
-# 🚩 Professional Experience in Bioinformatics/Computional Biology
+# 🚩 Professional Experience in Computional Biology
 
 - Ph.d Candidate in **Biology (Computional Biology)** at [Westlake University](https://www.westlake.edu.cn). 2022.08-present 
 
