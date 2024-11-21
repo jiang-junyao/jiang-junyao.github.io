@@ -12,6 +12,8 @@ I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sc
 
 I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
+***
+
 ## 📡 Research Interset
 
 - Developing computational tools for single-cell genomics and spatial genomics
@@ -97,9 +99,12 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ## 🉑 Life
 
-The Day of Deadlifts
+The Day of Deadlifts (170KG)
 
-<iframe height=498 width=510 src="../images/v1.mp4">
+<iframe height=250 width=250 src="../images/v1.mp4">
+
+## Contact
+
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
