@@ -83,6 +83,12 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ***
 
+## 🀄 Award
+
++ 2024 National Scholarship
+
+***
+
 ## 💻 Maintained Software
 + [IReNA](https://github.com/jiang-junyao/IReNA) Consturct gene regualtory networks based on single cell multiomics data
 + [CACIMAR](https://github.com/jiang-junyao/CACIMAR) scRNA-seq based cross-species data analysis
