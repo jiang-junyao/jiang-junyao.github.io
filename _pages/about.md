@@ -111,15 +111,32 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        /* 假设生成的内容有一个特定的ID，例如 mapContainer */
-        #mapContainer {
-            display: none; /* 隐藏元素 */
-        }
-    </style>
 </head>
 <body>
-    <!-- 添加你的 JavaScript 代码 -->
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
+    <div id="mapContainer"></div> <!-- 这是用来放置地图的容器 -->
+    
+    <script>
+        // 动态加载JavaScript代码
+
+        function loadMapScript() {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a';
+            script.onload = function() {
+                // 在脚本加载完成后移除生成的内容
+
+                var mapContainer = document.getElementById('mapContainer');
+                if (mapContainer) {
+                    mapContainer.innerHTML = ''; // 清空容器内容
+
+                }
+            };
+            document.body.appendChild(script);
+        }
+
+        // 在页面加载完成后调用函数
+
+        window.onload = loadMapScript;
+    </script>
 </body>
 </html>
