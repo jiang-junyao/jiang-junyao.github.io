@@ -105,38 +105,4 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div id="mapContainer"></div> <!-- 这是用来放置地图的容器 -->
-    
-    <script>
-        // 动态加载JavaScript代码
-
-        function loadMapScript() {
-            var script = document.createElement('script');
-            script.type = 'text/javascript';
-            script.src = '//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a';
-            script.onload = function() {
-                // 在脚本加载完成后移除生成的内容
-
-                var mapContainer = document.getElementById('mapContainer');
-                if (mapContainer) {
-                    mapContainer.innerHTML = ''; // 清空容器内容
-
-                }
-            };
-            document.body.appendChild(script);
-        }
-
-        // 在页面加载完成后调用函数
-
-        window.onload = loadMapScript;
-    </script>
-</body>
-</html>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
