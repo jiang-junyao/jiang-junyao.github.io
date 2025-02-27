@@ -107,12 +107,3 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WVFC7Q3K2N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WVFC7Q3K2N');
-</script>
