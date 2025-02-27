@@ -106,4 +106,23 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 假设生成的内容有一个特定的ID或类，例如 mapmyvisitors */
+        #mapmyvisitors {
+            opacity: 0; /* 将透明度设为0 */
+            position: absolute; /* 绝对定位可以将其移出可视区域 */
+            left: -9999px; /* 将其移出可视区域 */
+        }
+    </style>
+</head>
+<body>
+    <!-- 添加你的 JavaScript 代码 -->
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
+</body>
+</html>
