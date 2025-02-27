@@ -105,7 +105,6 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,11 +112,9 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        /* 假设生成的内容有一个特定的ID或类，例如 mapmyvisitors */
-        #mapmyvisitors {
-            opacity: 0; /* 将透明度设为0 */
-            position: absolute; /* 绝对定位可以将其移出可视区域 */
-            left: -9999px; /* 将其移出可视区域 */
+        /* 假设生成的内容有一个特定的ID，例如 mapContainer */
+        #mapContainer {
+            display: none; /* 隐藏元素 */
         }
     </style>
 </head>
