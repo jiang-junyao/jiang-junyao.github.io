@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by Prof Weike Pei & Prof Yanxiao Zhang. Before i joined Westlake University, I worked with Professor [Jie Wang](https://jiewanglab.github.io/us/) at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/).
 
-I am also an amateur bodybuilder with 125KG maximal weight for bench press, 180KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
+I am also an amateur bodybuilder with 125KG maximal weight for bench press, 185KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
 ***
 
@@ -94,7 +94,7 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 + [CACIMAR](https://github.com/jiang-junyao/CACIMAR) scRNA-seq based cross-species data analysis
 + [FateMapper](https://github.com/jiang-junyao/FateMapper) single cell lineage tracing data analysis and visualization
 + [scLTdb](https://scltdb.com) Database for single cell lineage tracing
-
++ [FateExplorer](https://github.com/jiang-junyao/FateExplorer) Machine learning method to generate clone embedding and perform fate analysis
 ***
 
 ## 📛 Mentorship
