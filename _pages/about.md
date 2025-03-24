@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by Prof Weike Pei & Prof Yanxiao Zhang. Before i joined Westlake University, I worked with Professor [Jie Wang](https://jiewanglab.github.io/us/) at [Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences](http://english.gibh.cas.cn/).
+I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by [Prof Weike Pei](https://www.westlake.edu.cn/faculty/weike-pei.html) & [Prof Yanxiao Zhang](https://www.westlake.edu.cn/faculty/yanxiao-zhang.html). My research focuses on integrating statistical and machine learning methods with single-cell lineage tracing to decode the cell fate decision process. Before joining Westlake, I developed algorithms for single-cell multi-omics data analysis and network inference at [Jie Wang's lab](https://jiewanglab.github.io/us/news.html) in GIBH-CAS.
 
 I am also an amateur bodybuilder with 125KG maximal weight for bench press, 185KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
