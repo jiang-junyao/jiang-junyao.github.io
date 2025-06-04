@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by [Prof Weike Pei](https://www.westlake.edu.cn/faculty/weike-pei.html) & [Prof Yanxiao Zhang](https://www.westlake.edu.cn/faculty/yanxiao-zhang.html). My research focuses on integrating statistical and machine learning methods with single-cell lineage tracing to decode the cell fate decision process. Before joining Westlake, I developed algorithms for single-cell multi-omics data analysis and network inference at [Jie Wang's lab](https://jiewanglab.github.io/us/news.html) in GIBH-CAS.
 
-I am also an amateur bodybuilder with 125KG maximal weight for bench press, 185KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
+I am also an amateur bodybuilder with 127.5KG maximal weight for bench press, 185KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
 ***
 
@@ -85,7 +85,7 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ## 🀄 Award
 
-+ 2024 National Scholarship
++ 2024 National Scholarship (~4500 USD)
 
 ***
 
@@ -95,6 +95,7 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 + [FateMapper](https://github.com/jiang-junyao/FateMapper) single cell lineage tracing data analysis and visualization
 + [scLTdb](https://scltdb.com) Database for single cell lineage tracing
 + [FateExplorer](https://github.com/jiang-junyao/FateExplorer) Machine learning method to generate clone embedding and perform fate analysis
+
 ***
 
 ## 📛 Mentorship
