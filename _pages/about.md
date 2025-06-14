@@ -106,7 +106,13 @@ Dapeng Sun\*, Xiaojie Gan\*, Lei Liu\*, Yuan Yang\*, Dongyang Ding, Wen Li, **Ju
 
 ## 📞 Peer Review Service
 
-Communications Biology; BMC Bioinformatics; Scientific Reports
+Communications Biology
+
+BMC Bioinformatics
+
+Scientific Reports
+
+***
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM&cl=ffffff&w=a"></script>
