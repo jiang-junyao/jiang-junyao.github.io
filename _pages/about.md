@@ -33,7 +33,7 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 </p>
 
 - Cell fate decisions are crucial for understanding how pluripotent cells develop into diverse tissues, with disruptions leading to congenital abnormalities. 
-- Through in vivo lineage tracing, such as DeepTrack barcoding, we have uncovered early lineage priming in the mouse embryo and reconstructed fate-resolved GRNs, identifying key regulator of mesoderm development. 
+- Through in vivo single-cell multiomics lineage tracing, such as DeepTrack barcoding, we have uncovered early lineage priming in the mouse embryo and reconstructed fate-resolved GRNs, identifying key regulator of mesoderm development. 
 - However, direct genetic barcoding is ethically and technically unfeasible in human embryos, necessitating the development of non-invasive approaches. To address this challenge, we have developed transfer learning-based methods for in silico fate mapping, enabling the discovery of spatiotemporal fate biases through data derived from 3D human embryo.
 
 # 📝 Publications 
