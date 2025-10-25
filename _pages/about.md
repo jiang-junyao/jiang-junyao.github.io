@@ -26,9 +26,13 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 - I am actively seeking a postdoctoral position in **computational single-cell and spatial genomics** outside mainland China. I would greatly appreciate it if you could share any relevant opportunities (Please email me at jiangjunyao@westlake.edu.cn).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 Summary of Main Research Topic
+
+<p align="center">
+  <img src="images/research.png" alt="Research Image" width="400"/>
+</p>
+
+Understanding cell fate decisions is fundamental to modern biology, as it elucidates how a seemingly homogeneous population of pluripotent cells gives rise to the diverse tissues and body axes of an organism—and how disruptions in this process can result in congenital abnormalities. Through in vivo lineage tracing, such as DeepTrack barcoding, we have uncovered early lineage priming in the mouse embryo and reconstructed fate-resolved gene regulatory networks (GRNs), identifying Cdx2 as a key regulator of mesoderm development. However, direct genetic barcoding is ethically and technically unfeasible in human embryos, necessitating the development of non-invasive approaches. To address this challenge, we have developed transfer learning-based methods for in silico fate mapping, enabling the discovery of SOX2-mediated regional fate biases using data from 3D human embryo.
 
 # 📝 Publications 
 
