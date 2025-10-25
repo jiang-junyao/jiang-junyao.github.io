@@ -28,16 +28,32 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 
 # 📝 Publications 
 
+†: co-first, #: correspondence
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Stem Cell (under peer review)</div><img src='images/fateGRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Chenyu Guo†, **Junyao Jiang†**, Xiaomin Wang†, Xinghuai Huang, Shenghu Zhang, Chenyang Shao, Mingyuan Zhang, Xiwen Hu, Wenqian Yang, Fuwei Shang, Xi Wang, Hongbo Zhai, Quan Du, Fang Liu, Danyang He, Xiaodong Liu, Guangdun Peng, Saifeng Cheng, Yanxiao Zhang#, Duanqing Pei#, Weike Pei#
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Keywords: Single-cell multi-omics, Lineage tracing, Fate resolved GRN
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research 2024</div><img src='images/scltdb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[scLTdb: a comprehensive single cell lineage tracing database]
+
+**Junyao Jiang†**, Xing Ye†, Yunhui Kong†, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei#
+
+Keywords: Single-cell and spatial genomics, Lineage tracing, Online resource
+</div>
+</div>
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
