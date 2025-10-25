@@ -33,18 +33,19 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Stem Cell (under peer review)</div><img src='images/fateGRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]
+[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
 
 Chenyu Guo†, **Junyao Jiang†**, Xiaomin Wang†, Xinghuai Huang, Shenghu Zhang, Chenyang Shao, Mingyuan Zhang, Xiwen Hu, Wenqian Yang, Fuwei Shang, Xi Wang, Hongbo Zhai, Quan Du, Fang Liu, Danyang He, Xiaodong Liu, Guangdun Peng, Saifeng Cheng, Yanxiao Zhang#, Duanqing Pei#, Weike Pei#
 
-Keywords: Single-cell multi-omics, Lineage tracing, Fate resolved GRN
+Keywords: Single-cell multi-omics Lineage tracing, Mouse , Fate resolved GRN
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research 2024</div><img src='images/scltdb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[scLTdb: a comprehensive single cell lineage tracing database]
+[scLTdb: a comprehensive single cell lineage tracing database](https://academic.oup.com/nar/article/53/D1/D1173/7848853)
 
 **Junyao Jiang†**, Xing Ye†, Yunhui Kong†, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei#
 
@@ -53,7 +54,28 @@ Keywords: Single-cell and spatial genomics, Lineage tracing, Online resource
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefing in Bioinformatics 2024</div><img src='images/cacimar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data](https://academic.oup.com/bib/article/25/4/bbae283/7690342)
+
+**Junyao Jiang†**, Jinlian Li†, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang#
+
+Keywords: scRNA, Cross-species comparison, Conserved regulatory programs
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2022</div><img src='images/irena.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles](https://www.cell.com/iscience/fulltext/S2589-0042(22)01631-5)
+
+**Junyao Jiang†**, Pin Lyu†, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang
+
+Keywords: Single-cell multiomics, Gene regulatory netowrk, Inter celltype regulations
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
