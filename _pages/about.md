@@ -121,6 +121,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
 # 📞 Peer Review Service
 - Communications Biology
 - BMC Bioinformatics
+- BMC Genomics
 - Scientific Reports
 
 # 💻 Maintained Software
