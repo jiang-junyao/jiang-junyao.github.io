@@ -40,7 +40,7 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 
 †: co-first, #: correspondence
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Stem Cell (under peer review)</div><img src='images/fateGRN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature genetics (under review)</div><img src='images/fateGRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
