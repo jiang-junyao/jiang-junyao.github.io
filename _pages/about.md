@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by [Prof Weike Pei](https://www.westlake.edu.cn/faculty/weike-pei.html) & [Prof Yanxiao Zhang](https://www.westlake.edu.cn/faculty/yanxiao-zhang.html). My research focuses on decoding cell fate decision processes by integrating single-cell and spatial genomics with machine learning. Before joining Westlake, I developed algorithms for single-cell multi-omics data analysis and network inference at [Jie Wang's lab](https://jiewanglab.github.io/us/news.html) in GIBH-CAS.
 
-I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
+I am also an amateur bodybuilder with 135KG maximal weight for bench press, 190KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
 # 🔈 Seeking Postdoc Opportunities
 
@@ -44,7 +44,7 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature genetics (under review)</div><img src='images/fateGRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uncovering the origins and functional features of hematopoiesis in extramedullary organs]()
+[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
 
 Chenyu Guo†, **Junyao Jiang†**, Xiaomin Wang†, Xinghuai Huang, Shenghu Zhang, Chenyang Shao, Mingyuan Zhang, Xiwen Hu, Wenqian Yang, Fuwei Shang, Xi Wang, Hongbo Zhai, Quan Du, Fang Liu, Danyang He, Xiaodong Liu, Guangdun Peng, Saifeng Cheng, Yanxiao Zhang#, Duanqing Pei#, Weike Pei#
 
@@ -56,7 +56,7 @@ Keywords: Single-cell multi-omics Lineage tracing, Mouse embryogenesis, Fate res
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature (under review)</div><img src='images/EH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
+[Uncovering the origins and functional features of hematopoiesis in extramedullary organs]()
 
 Wenqian Yang†, Zhexuan Hu† , **Junyao Jiang*†*, Chenyu Guo†, Zongcheng Li†, Weipeng Ge, Yizhen Chu, Qi Shi, Xiaotong Wang, Xinghuai Huang, Xiwen Hu, Hui Li, Huayu Pan, Fuwei Shang, Zheng Wang, Xi Wang, Fang Liu, Quan Du, Hongbo Zhai, Heping Xu, Danyang He, Yu Lan#, Bing Liu#, Weike Pei#
 
