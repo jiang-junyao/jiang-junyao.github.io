@@ -53,7 +53,7 @@ Keywords: Single-cell multi-omics Lineage tracing, Mouse embryogenesis, Fate res
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature genetics (under review)</div><img src='images/EH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature (under review)</div><img src='images/EH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
