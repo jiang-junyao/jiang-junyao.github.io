@@ -40,16 +40,30 @@ I am also an amateur bodybuilder with 130KG maximal weight for bench press, 185K
 
 †: co-first, #: correspondence
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature genetics (under review)</div><img src='images/fateGRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
+[Uncovering the origins and functional features of hematopoiesis in extramedullary organs]()
 
 Chenyu Guo†, **Junyao Jiang†**, Xiaomin Wang†, Xinghuai Huang, Shenghu Zhang, Chenyang Shao, Mingyuan Zhang, Xiwen Hu, Wenqian Yang, Fuwei Shang, Xi Wang, Hongbo Zhai, Quan Du, Fang Liu, Danyang He, Xiaodong Liu, Guangdun Peng, Saifeng Cheng, Yanxiao Zhang#, Duanqing Pei#, Weike Pei#
 
 Keywords: Single-cell multi-omics Lineage tracing, Mouse embryogenesis, Fate resolved GRN, Cell atlas
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature genetics (under review)</div><img src='images/EH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding]()
+
+Wenqian Yang†, Zhexuan Hu† , **Junyao Jiang*†*, Chenyu Guo†, Zongcheng Li†, Weipeng Ge, Yizhen Chu, Qi Shi, Xiaotong Wang, Xinghuai Huang, Xiwen Hu, Hui Li, Huayu Pan, Fuwei Shang, Zheng Wang, Xi Wang, Fang Liu, Quan Du, Hongbo Zhai, Heping Xu, Danyang He, Yu Lan#, Bing Liu#, Weike Pei#
+
+Keywords: Lineage tracing, Extramedullary hematopoiesis, EPO
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research 2024</div><img src='images/scltdb.png' alt="sym" width="100%"></div></div>
