@@ -58,7 +58,7 @@ Keywords: Single-cell multi-omics Lineage tracing, Mouse embryogenesis, Fate res
 
 [Uncovering the origins and functional features of hematopoiesis in extramedullary organs]()
 
-Wenqian Yang†, Zhexuan Hu† , **Junyao Jiang*†*, Chenyu Guo†, Zongcheng Li†, Weipeng Ge, Yizhen Chu, Qi Shi, Xiaotong Wang, Xinghuai Huang, Xiwen Hu, Hui Li, Huayu Pan, Fuwei Shang, Zheng Wang, Xi Wang, Fang Liu, Quan Du, Hongbo Zhai, Heping Xu, Danyang He, Yu Lan#, Bing Liu#, Weike Pei#
+Wenqian Yang†, Zhexuan Hu† , **Junyao Jiang**†, Chenyu Guo†, Zongcheng Li†, Weipeng Ge, Yizhen Chu, Qi Shi, Xiaotong Wang, Xinghuai Huang, Xiwen Hu, Hui Li, Huayu Pan, Fuwei Shang, Zheng Wang, Xi Wang, Fang Liu, Quan Du, Hongbo Zhai, Heping Xu, Danyang He, Yu Lan#, Bing Liu#, Weike Pei#
 
 Keywords: Lineage tracing, Extramedullary hematopoiesis, EPO
 </div>
