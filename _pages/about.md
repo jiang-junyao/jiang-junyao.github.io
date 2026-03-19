@@ -53,7 +53,7 @@ Keywords: Single-cell multi-omics Lineage tracing, Mouse embryogenesis, Fate res
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature (under review)</div><img src='images/EH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature (Major revision)</div><img src='images/EH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncovering the origins and functional features of hematopoiesis in extramedullary organs]()
