@@ -131,7 +131,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
 # 📛 Mentorship
 - **Xing Ye**: Undergraduate from University of Science and Technology of China, 2023.11-2024.06. (Co-first author at scLTdb project)
 - **Zhi Chen**: Undergraduate from Tsinghua University, 2025.07-2025.08. (Summer research programe)
-- **Jiayi Liu**: Research Assistant from Imperial College London, 2025.10-Present.
+- **Jiayi Liu**: MSc from Imperial College London, Research Assistant, 2025.10-Present.
 
 # 📞 Peer Review Service
 - Nature (Co-Review)
