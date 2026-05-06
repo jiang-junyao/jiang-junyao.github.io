@@ -135,6 +135,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
 
 # 📞 Peer Review Service
 - Nature (Co-Review)
+- Nature Cell Biology (Co-Review)
 - Communications Biology
 - Archives of Computational Methods in Engineering
 - BMC Bioinformatics
