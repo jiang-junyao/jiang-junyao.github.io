@@ -149,7 +149,124 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
 - [scLTdb](https://scltdb.com) Database for single cell lineage tracing
 - [FateExplorer](https://github.com/jiang-junyao/FateExplorer) Machine learning method to generate clone embedding and perform fate analysis
 
+# 📷 Personal Gallery
 
+<style>
+  .photo-gallery {
+    display: grid;
+    /* 调整 minmax 的最小值可以控制每排显示的个数，120px 大约一排显示 6-8 个 */
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
+    margin: 20px 0 40px 0;
+  }
+  
+  .gallery-item {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .gallery-item img:hover {
+    transform: scale(1.05);
+  }
+
+  /* 文字说明样式 */
+  .gallery-item figcaption {
+    margin-top: 8px;
+    font-size: 0.75em;
+    line-height: 1.4;
+    color: #666;
+  }
+  
+  .gallery-item figcaption strong {
+    display: block;
+    color: #333;
+    font-size: 1.1em;
+  }
+
+  /* 放大查看的模态框 */
+  .lightbox-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    padding-top: 60px;
+    left: 0; top: 0; width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  
+  .lightbox-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 80vh;
+    object-fit: contain;
+  }
+</style>
+
+  <figure class="gallery-item">
+    <img src="images/meili.jpg" class="gallery-img">
+    <figcaption>
+      <strong>Kawa Karpo (卡瓦格博)</strong>
+      China YunNan | 2026
+    </figcaption>
+  </figure>
+
+<div class="photo-gallery">
+  <figure class="gallery-item">
+    <img src="images/PIMG.png" class="gallery-img">
+    <figcaption>
+      <strong>Hangang (汉江)</strong>
+      Korea Seoul | 2025
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <img src="images/hhl.jpg" class="gallery-img">
+    <figcaption>
+      <strong>Huang He Lou (黄鹤楼)</strong>
+      China WuHan | 2025
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <img src="images/gn.jpg" class="gallery-img">
+    <figcaption>
+      <strong>Sangke Grassland (桑科草原)</strong>
+      China GanNan | 2025
+    </figcaption>
+  </figure>
+</div>
+
+<div id="imageLightbox" class="lightbox-modal">
+  <img class="lightbox-content" id="expandedImg">
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const modal = document.getElementById("imageLightbox");
+    const modalImg = document.getElementById("expandedImg");
+    const images = document.querySelectorAll(".gallery-img");
+
+    images.forEach(img => {
+      img.onclick = function() {
+        modal.style.display = "block";
+        modalImg.src = this.src;
+      }
+    });
+
+    modal.onclick = function() {
+      modal.style.display = "none";
+    };
+  });
+</script>
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=Xx1pOrvX0LuT6vN5CTkSecSQdyAAcavIfDd6TYnNxkc&co=ffffff&cmo=2c89e1&cmn=ff5353&ct=808080'></script>
