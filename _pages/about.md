@@ -167,7 +167,8 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
   
   .gallery-item img {
     width: 100%;
-    height: 120px;
+    /* 删掉或者注释掉原来的 height: 120px; */
+    aspect-ratio: 3 / 2; /* 新增这行，3:2 是经典的单反摄影比例。如果你喜欢更宽一点的电影感，可以改为 16 / 9 */
     object-fit: cover;
     border-radius: 8px;
     cursor: pointer;
@@ -215,7 +216,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
     <img src="images/meili.jpg" class="gallery-img">
     <figcaption>
       <strong>Kawa Karpo (卡瓦格博)</strong>
-      China YunNan | 2026
+      China YunNan
     </figcaption>
   </figure>
 
@@ -224,7 +225,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
     <img src="images/PIMG.png" class="gallery-img">
     <figcaption>
       <strong>Hangang (汉江)</strong>
-      Korea Seoul | 2025
+      Korea Seoul
     </figcaption>
   </figure>
 
@@ -232,15 +233,33 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
     <img src="images/hhl.jpg" class="gallery-img">
     <figcaption>
       <strong>Huang He Lou (黄鹤楼)</strong>
-      China WuHan | 2025
+      China WuHan
     </figcaption>
   </figure>
+
+  <figure class="gallery-item">
+    <img src="images/fji.jpg" class="gallery-img">
+    <figcaption>
+      <strong>Mt. Fuji (富士山)</strong>
+      Japan Yamanashi
+    </figcaption>
+  </figure>
+</div>
 
   <figure class="gallery-item">
     <img src="images/gn.jpg" class="gallery-img">
     <figcaption>
       <strong>Sangke Grassland (桑科草原)</strong>
-      China GanNan | 2025
+      China GanNan
+    </figcaption>
+  </figure>
+</div>
+
+ <figure class="gallery-item">
+    <img src="images/cuhk.jpg" class="gallery-img">
+    <figcaption>
+      <strong>CUHK (伍何曼原楼)</strong>
+      Hong Kong
     </figcaption>
   </figure>
 </div>
