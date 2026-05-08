@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by [Prof Weike Pei](https://www.westlake.edu.cn/faculty/weike-pei.html) & [Prof Yanxiao Zhang](https://www.westlake.edu.cn/faculty/yanxiao-zhang.html). My research focuses on decoding cell fate decision processes by integrating single-cell and spatial genomics with machine learning. Before joining Westlake, I developed algorithms for single-cell multi-omics data analysis and network inference at [Jie Wang's lab](https://jiewanglab.github.io/us/news.html) in GIBH-CAS.
 
-I am also an amateur bodybuilder with 135KG maximal weight for bench press, 190KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
+I am also an amateur bodybuilder with 140KG maximal weight for bench press, 190KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
 
 # 🔈 Seeking Postdoc Opportunities
 
@@ -229,23 +229,13 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
       China YunNan
     </figcaption>
   </figure>
-
   <figure class="gallery-item">
-    <img src="images/PIMG.png" class="gallery-img">
+    <img src="images/yulong.jpg" class="gallery-img">
     <figcaption>
-      <strong>Hangang (汉江)</strong>
-      Korea Seoul
+      <strong>Jade Dragon Snow Mountain (玉龙雪山)</strong>
+      China YunNan
     </figcaption>
   </figure>
-
-  <figure class="gallery-item">
-    <img src="images/hhl.jpg" class="gallery-img">
-    <figcaption>
-      <strong>Huang He Lou (黄鹤楼)</strong>
-      China WuHan
-    </figcaption>
-  </figure>
-</div>
 <div class="photo-gallery">
   <figure class="gallery-item">
     <img src="images/fji.jpg" class="gallery-img">
@@ -263,13 +253,37 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
       China GanNan
     </figcaption>
   </figure>
+</div>
 
+  <figure class="gallery-item">
+    <img src="images/PIMG.png" class="gallery-img">
+    <figcaption>
+      <strong>Hangang (汉江)</strong>
+      Korea Seoul
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <img src="images/hhl.jpg" class="gallery-img">
+    <figcaption>
+      <strong>Huang He Lou (黄鹤楼)</strong>
+      China WuHan
+    </figcaption>
+  </figure>
 
  <figure class="gallery-item">
     <img src="images/cuhk.jpg" class="gallery-img">
     <figcaption>
       <strong>CUHK (伍何曼原楼)</strong>
       Hong Kong
+    </figcaption>
+  </figure>
+
+   <figure class="gallery-item">
+    <img src="images/bobo.jpg" class="gallery-img">
+    <figcaption>
+      <strong>BOBO (博博)</strong>
+      Home
     </figcaption>
   </figure>
 </div>
