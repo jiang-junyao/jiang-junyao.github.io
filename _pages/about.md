@@ -236,7 +236,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
       China YunNan
     </figcaption>
   </figure>
-<div class="photo-gallery">
+
   <figure class="gallery-item">
     <img src="images/fji.jpg" class="gallery-img">
     <figcaption>
@@ -254,7 +254,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
     </figcaption>
   </figure>
 </div>
-
+<div class="photo-gallery">
   <figure class="gallery-item">
     <img src="images/PIMG.png" class="gallery-img">
     <figcaption>
