@@ -225,7 +225,7 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
   <figure class="gallery-item">
     <img src="images/meili.jpg" class="gallery-img">
     <figcaption>
-      <strong>Kawa Karpo (卡瓦格博)</strong>
+      <strong>Meili-Kawa Garpo (梅里雪山-卡瓦格博)</strong>
       China YunNan
     </figcaption>
   </figure>
