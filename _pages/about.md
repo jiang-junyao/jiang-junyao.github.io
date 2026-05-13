@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D Candidate in Biology (Computional Biology) at the School of Life Sciences, Westlake University, advised by [Prof Weike Pei](https://www.westlake.edu.cn/faculty/weike-pei.html) & [Prof Yanxiao Zhang](https://www.westlake.edu.cn/faculty/yanxiao-zhang.html). My research focuses on decoding cell fate decision processes by integrating single-cell and spatial genomics with machine learning. Before joining Westlake, I developed algorithms for single-cell multi-omics data analysis and network inference at [Jie Wang's lab](https://jiewanglab.github.io/us/news.html) in GIBH-CAS.
+I am a Computational Biologist at Westlake University. I leverage machine learning and single-cell/spatial genomics to decode cell fate decisions. With a background in algorithm development for multi-omics and network inference, I am dedicated to building computational frameworks for modern biology.
 
 I am also an amateur bodybuilder with 140KG maximal weight for bench press, 190KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
-
-# 🔈 Seeking Postdoc Opportunities
-
-- I am actively seeking a postdoctoral position in **computational single-cell and spatial genomics** outside mainland China. I would greatly appreciate it if you could share any relevant opportunities (Please email me at jiangjunyao@westlake.edu.cn).
 
 
 # 🔥 Summary of Main Research Topic
