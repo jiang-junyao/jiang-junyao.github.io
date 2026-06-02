@@ -308,4 +308,4 @@ Keywords: scRNA, Cell atlas, Glioblastoma, Cancer immunotherapy
 </script>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=Xx1pOrvX0LuT6vN5CTkSecSQdyAAcavIfDd6TYnNxkc&co=ffffff&cmo=2c89e1&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM'></script>
