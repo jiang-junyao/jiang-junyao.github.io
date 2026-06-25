@@ -1,0 +1,22 @@
+<header class="site-header">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <nav class="nav container" aria-label="Primary navigation">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Junyao Jiang home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>
+        <strong>Junyao Jiang</strong>
+        <small>Computational Biology</small>
+      </span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <div class="nav-links" id="nav-links">
+      <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/news/' | relative_url }}" {% if page.url contains "/news/" %}aria-current="page"{% endif %}>News + Thoughts</a>
+      <a href="{{ '/gallery/' | relative_url }}" {% if page.url contains "/gallery/" %}aria-current="page"{% endif %}>Gallery</a>
+    </div>
+  </nav>
+</header>

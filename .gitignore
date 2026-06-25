@@ -1,3 +1,10 @@
 _site/
-push.sh
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+node_modules/
+Gemfile.lock
 .DS_Store
+Thumbs.db

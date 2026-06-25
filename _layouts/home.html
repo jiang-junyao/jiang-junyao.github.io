@@ -1,0 +1,247 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">Machine learning / Single-cell genomics / Cell fate</p>
+      <h1 class="home-title">Junyao Jiang <span>&#33931;&#20426;&#23591;</span></h1>
+      <p class="hero-lede">
+        Computational Biologist at Westlake University, developing machine learning and single-cell/spatial genomics methods to decode cell fate decisions, reconstruct fate-resolved regulatory networks, and map developmental programs across species and tissues.
+      </p>
+      <div class="hero-actions">
+        <a class="button primary" href="#publications">Publications</a>
+        <a class="button secondary" href="{{ '/gallery/' | relative_url }}">Landscape Archive</a>
+      </div>
+      <div class="profile-links" aria-label="Academic profiles">
+        <a href="https://scholar.google.com/citations?user=7mutOvgAAAAJ&hl=en">Google Scholar</a>
+        <a href="https://orcid.org/my-orcid?orcid=0009-0006-8639-059X">ORCID</a>
+      </div>
+    </div>
+    <aside class="signal-panel" aria-label="Profile summary">
+      <div class="profile-orbit">
+        <img src="{{ '/images/PIMG.png' | relative_url }}" alt="Junyao Jiang">
+      </div>
+      <div class="metric-grid">
+        <div>
+          <span>Focus</span>
+          <strong>Cell Fate</strong>
+        </div>
+        <div>
+          <span>Methods</span>
+          <strong>ML + Omics</strong>
+        </div>
+        <div>
+          <span>Base</span>
+          <strong>Incoming Postdoc @ DANDRITE</strong>
+        </div>
+        <div>
+          <span>Mode</span>
+          <strong>Builder</strong>
+        </div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split">
+    <div>
+      <p class="section-kicker">Research portal</p>
+      <h2>Decoding fate decisions with data-rich biology.</h2>
+    </div>
+    <div class="prose">
+      <p>
+        My work sits at the intersection of algorithm development, multi-omics integration, lineage tracing, and regulatory network inference. I build computational frameworks that help transform high-dimensional single-cell data into interpretable maps of development, identity, and cellular potential.
+      </p>
+      <p>
+        I am also an amateur bodybuilder with 140KG maximal weight for bench press, 190KG maximal weight for Deadlift, and 170KG maximal weight for Squat.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="section compact">
+  <div class="container">
+    <div class="section-heading">
+      <p class="section-kicker">Research interests</p>
+      <h2>Core directions</h2>
+    </div>
+    <article class="text-panel">
+      <p>
+        My research focuses on computational frameworks for modern developmental biology, especially fate-resolved lineage tracing, single-cell and spatial multi-omics integration, gene regulatory network inference, and transfer learning methods for non-invasive in silico fate mapping. I am interested in how cellular histories, molecular states, and spatial context can be jointly modeled to reveal lineage priming, fate bias, conserved cell identities, and regulatory mechanisms across embryos, tissues, and species.
+      </p>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container research-visual">
+    <div>
+      <p class="section-kicker">Main research topic</p>
+      <h2>From DeepTrack barcoding to transferable fate maps.</h2>
+      <ul class="clean-list">
+        <li>Cell fate decisions explain how pluripotent cells develop into diverse tissues, and how disruptions can lead to congenital abnormalities.</li>
+        <li>In vivo single-cell multi-omics lineage tracing has enabled early lineage priming discovery in mouse embryos and fate-resolved GRN reconstruction.</li>
+        <li>Because direct genetic barcoding is ethically and technically infeasible in human embryos, transfer learning can provide non-invasive in silico fate mapping from 3D human embryo data.</li>
+      </ul>
+    </div>
+    <figure>
+      <img src="{{ '/images/research.png' | relative_url }}" alt="Research framework overview">
+    </figure>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container detail-grid">
+    <article>
+      <p class="section-kicker">Professional path</p>
+      <h2>Professional Experience in Computational Biology</h2>
+      <ul class="timeline-mini">
+        <li><span>Incoming</span> Postdoctoral Researcher at DANDRITE</li>
+        <li><span>2022.08 - 2026.06</span> Ph.D. in Biology, Systems and Synthetic Biology Program, Westlake University</li>
+        <li><span>2021.03 - 2022.06</span> Research Assistant, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences</li>
+        <li><span>2020.12 - 2021.02</span> Bioinformatician Intern, Singleron Biotech</li>
+        <li><span>2020.12 - 2021.02</span> M.Sc. in Genomics and Bioinformatics, Chinese University of Hong Kong</li>
+      </ul>
+    </article>
+  </div>
+</section>
+
+<section class="section compact" id="publications">
+  <div class="container">
+    <div class="section-heading">
+      <p class="section-kicker">Publications</p>
+      <h2>Featured publications</h2>
+      <p class="muted">* Co-first author. # Corresponding author.</p>
+    </div>
+    <div class="publication-list">
+      {% include publication-card.html
+        venue="Nature Cell Biology / Major revision"
+        image="/images/fateGRN.png"
+        title="In vivo multimodal lineage tracing of mammalian development by DeepTrack barcoding"
+        authors="Chenyu Guo*, <strong>Junyao Jiang*</strong>, Xiaomin Wang*, Xinghuai Huang, Shenghu Zhang, Chenyang Shao, Mingyuan Zhang, Xiwen Hu, Wenqian Yang, Fuwei Shang, Xi Wang, Hongbo Zhai, Quan Du, Fang Liu, Danyang He, Xiaodong Liu, Guangdun Peng, Saifeng Cheng, Yanxiao Zhang#, Duanqing Pei#, Weike Pei#"
+        note="Co-first author"
+        keywords="Single-cell multi-omics lineage tracing / Mouse embryogenesis / Fate-resolved GRN / Cell atlas"
+      %}
+      {% include publication-card.html
+        venue="Nature / Major revision"
+        image="/images/EH.png"
+        title="Uncovering the origins and functional features of hematopoiesis in extramedullary organs"
+        authors="Wenqian Yang*, Zhexuan Hu*, <strong>Junyao Jiang*</strong>, Chenyu Guo*, Zongcheng Li*, Weipeng Ge, Yizhen Chu, Qi Shi, Xiaotong Wang, Xinghuai Huang, Xiwen Hu, Hui Li, Huayu Pan, Fuwei Shang, Zheng Wang, Xi Wang, Fang Liu, Quan Du, Hongbo Zhai, Heping Xu, Danyang He, Yu Lan#, Bing Liu#, Weike Pei#"
+        note="Co-first author"
+        keywords="Lineage tracing / Extramedullary hematopoiesis / EPO"
+      %}
+      {% include publication-card.html
+        venue="Nucleic Acids Research 2024"
+        image="/images/scltdb.png"
+        title="scLTdb: a comprehensive single cell lineage tracing database"
+        url="https://academic.oup.com/nar/article/53/D1/D1173/7848853"
+        authors="<strong>Junyao Jiang*</strong>, Xing Ye*, Yunhui Kong*, Chenyu Guo, Mingyuan Zhang, Fang Cao, Yanxiao Zhang#, Weike Pei#"
+        note="Co-first author"
+        keywords="Single-cell and spatial genomics / Lineage tracing / Online resource"
+      %}
+      {% include publication-card.html
+        venue="Briefings in Bioinformatics 2024"
+        image="/images/cacimar.png"
+        title="CACIMAR: cross-species analysis of cell identities, markers, regulations, and interactions using single-cell RNA sequencing data"
+        url="https://academic.oup.com/bib/article/25/4/bbae283/7690342"
+        authors="<strong>Junyao Jiang*</strong>, Jinlian Li*, Sunan Huang, Fan Jiang, Yanran Liang, Xueli Xu#, Jie Wang#"
+        note="Co-first author"
+        keywords="scRNA-seq / Cross-species comparison / Conserved regulatory programs"
+      %}
+      {% include publication-card.html
+        venue="iScience 2022"
+        image="/images/irena.png"
+        title="IReNA: Integrated Regulatory Network Analysis of Single-Cell Transcriptomes and Chromatin Accessibility Profiles"
+        url="https://www.cell.com/iscience/fulltext/S2589-0042(22)01631-5"
+        authors="<strong>Junyao Jiang*</strong>, Pin Lyu*, Sunan Huang, Jiawang Tao, Seth Blackshaw, Qian Jiang, Jie Wang"
+        note="Co-first author"
+        keywords="Single-cell multi-omics / Gene regulatory network / Inter-cell-type regulations"
+      %}
+      {% include publication-card.html
+        venue="Cell Research 2025"
+        image="/images/cr2025.png"
+        title="Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma"
+        url="https://www.nature.com/articles/s41422-025-01155-y"
+        authors="Yapeng Ji, <strong>Junyao Jiang</strong>, Lei Hu, Peng Lin, Mingshan Zhou, Song Hu, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Yang Guo, Adwait Amod Sathe, Bret M. Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang#, Hongtao Yu#"
+        keywords="scRNA-seq / Cell atlas / Glioblastoma / Cancer immunotherapy"
+      %}
+    </div>
+    <div class="section-heading subsection-heading">
+      <h2>Other publications</h2>
+    </div>
+    <ol class="publication-simple-list">
+      <li>
+        Yunhui Kong*, <strong>Junyao Jiang*#</strong>, Weikang Kong, Sheng Qin#.
+        DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms.
+        <em>Communications Biology</em>, Sep 2024. Co-first author and corresponding author.
+      </li>
+      <li>
+        Ying Xin, Pin Lyu, <strong>Junyao Jiang</strong>, Fengquan Zhou, Jie Wang, Seth Blackshaw, Jiang Qian.
+        LRLoop: Feedback loops as a design principle of cell-cell communication.
+        <em>Bioinformatics</em>, July 2022.
+      </li>
+      <li>
+        Dapeng Sun*, Xiaojie Gan*, Lei Liu*, Yuan Yang*, Dongyang Ding, Wen Li, <strong>Junyao Jiang</strong>, et al.
+        DNA hypermethylation modification promotes the development of hepatocellular carcinoma by depressing the tumor suppressor gene ZNF334.
+        <em>Cell Death & Disease</em>, May 2022.
+      </li>
+    </ol>
+  </div>
+</section>
+
+<section class="section compact">
+  <div class="container tri-grid">
+    <article>
+      <p class="section-kicker">Recognition</p>
+      <h2>Awards</h2>
+      <p class="highlight-line">Doctoral National Scholarship, 2024.10. Top 1% PhD student in China.</p>
+    </article>
+    <article>
+      <p class="section-kicker">Mentorship</p>
+      <h2>Research mentoring</h2>
+      <ul class="journal-list">
+        <li><strong>Xing Ye</strong>: Undergraduate from University of Science and Technology of China, 2023.11-2024.06. Co-first author at scLTdb project.</li>
+        <li><strong>Zhi Chen</strong>: Undergraduate from Tsinghua University, 2025.07-2025.08. Summer research program.</li>
+        <li><strong>Jiayi Liu</strong>: MSc from Imperial College London, Research Assistant, 2025.10-Present.</li>
+      </ul>
+    </article>
+    <article>
+      <p class="section-kicker">Peer review</p>
+      <h2>Journal service</h2>
+      <ul class="journal-list">
+        <li>Nature (Co-Review)</li>
+        <li>Nature Cell Biology (Co-Review)</li>
+        <li>Communications Biology</li>
+        <li>Archives of Computational Methods in Engineering</li>
+        <li>BMC Bioinformatics</li>
+        <li>BMC Genomics</li>
+        <li>Scientific Reports</li>
+      </ul>
+    </article>
+  </div>
+</section>
+
+<section class="section compact">
+  <div class="container detail-grid">
+    <article>
+      <p class="section-kicker">Software</p>
+      <h2>Maintained tools</h2>
+      <div class="software-list">
+        <a href="https://github.com/jiang-junyao/IReNA">IReNA</a>
+        <a href="https://github.com/jiang-junyao/CACIMAR">CACIMAR</a>
+        <a href="https://github.com/jiang-junyao/FateMapper">FateMapper</a>
+        <a href="https://scltdb.com">scLTdb</a>
+        <a href="https://github.com/jiang-junyao/FateExplorer">FateExplorer</a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="section compact">
+  <div class="container visitor-map">
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=tt&d=Sh4k0tJqJ3qZyNmvueaYMsPVgNj7_uJAuA9hJ3QqHCM'></script>
+  </div>
+</section>

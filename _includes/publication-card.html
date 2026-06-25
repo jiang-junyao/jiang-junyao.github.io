@@ -1,0 +1,20 @@
+<article class="publication-card">
+  <div class="publication-media">
+    <span class="pub-badge">{{ include.venue }}</span>
+    <img src="{{ include.image | relative_url }}" alt="{{ include.alt | default: include.title }}">
+  </div>
+  <div class="publication-body">
+    <h3>
+      {% if include.url %}
+      <a href="{{ include.url }}">{{ include.title }}</a>
+      {% else %}
+      {{ include.title }}
+      {% endif %}
+    </h3>
+    <p class="pub-authors">{{ include.authors }}</p>
+    {% if include.note %}
+    <p class="pub-note">{{ include.note }}</p>
+    {% endif %}
+    <p class="pub-keywords">{{ include.keywords }}</p>
+  </div>
+</article>
