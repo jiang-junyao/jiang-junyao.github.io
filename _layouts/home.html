@@ -8,7 +8,7 @@ layout: default
       <p class="eyebrow">Machine learning / Single-cell genomics / Cell fate</p>
       <h1 class="home-title">Junyao Jiang <span>&#33931;&#20426;&#23591;</span></h1>
       <p class="hero-lede">
-        Computational Biologist at Westlake University, developing machine learning and single-cell/spatial genomics methods to decode cell fate decisions, reconstruct fate-resolved regulatory networks, and map developmental programs across species and tissues.
+        Computational Biologist at Nordic-EMBL DANDRITE, developing machine learning and single-cell/spatial genomics methods to decode cell fate decisions, reconstruct fate-resolved regulatory networks, and map developmental programs across species and tissues.
       </p>
       <div class="hero-actions">
         <a class="button primary" href="#publications">Publications</a>
@@ -34,7 +34,7 @@ layout: default
         </div>
         <div>
           <span>Base</span>
-          <strong>Incoming Postdoc @ DANDRITE</strong>
+          <strong>Postdoctoral Researcher @ Nordic-EMBL DANDRITE</strong>
         </div>
         <div>
           <span>Email</span>
@@ -78,7 +78,7 @@ layout: default
       <p class="section-kicker">Professional path</p>
       <h2>Professional Experience in Computational Biology</h2>
       <ul class="timeline-mini">
-        <li><span>Incoming</span> Postdoctoral Researcher at DANDRITE</li>
+        <li><span>Current</span> Postdoctoral Researcher at Nordic-EMBL DANDRITE</li>
         <li><span>2022.08 - 2026.06</span> Ph.D. in Biology, Systems and Synthetic Biology Program, Westlake University</li>
         <li><span>2021.03 - 2022.06</span> Research Assistant, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences</li>
         <li><span>2020.12 - 2021.02</span> Bioinformatician Intern, Singleron Biotech</li>
@@ -96,6 +96,15 @@ layout: default
       <p class="muted">* Co-first author. # Corresponding author.</p>
     </div>
     <div class="publication-list">
+      {% include publication-card.html
+        venue="bioRxiv 2026 (Preprint / Under review at Cell Systems)"
+        image="/images/ageas.png"
+        title="Ageas enables time-agnostic cell fate inference from single-cell and spatial multi-omics data"
+        url="https://www.biorxiv.org/content/10.64898/2026.08.30.748098v1"
+        authors="<strong>Junyao Jiang#</strong>, Alex Kong, Gang Yu"
+        note="Corresponding author"
+        keywords="Transfer learning / Cell fate inference / Single-cell and spatial multi-omics"
+      %}
       {% include publication-card.html
         venue="bioRxiv 2026 (Nature Cell Biology / Major revision)"
         image="/images/fateGRN.png"
