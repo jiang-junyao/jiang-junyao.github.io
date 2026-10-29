@@ -1010,3 +1010,93 @@ p {
     flex-direction: column;
   }
 }
+
+
+/* Gallery: a personal travel journal. Scoped to this page, including preview. */
+body:has(.gallery-hero) {
+  --gallery-serif: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Kaiti SC", KaiTi, STKaiti, "Noto Serif CJK SC", serif;
+  --gallery-hand: "Segoe Print", "Bradley Hand", "Kaiti SC", KaiTi, cursive;
+  font-family: var(--gallery-serif);
+}
+
+.gallery-hero h1 {
+  font-size: clamp(4.5rem, 12vw, 9rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.055em;
+}
+
+.gallery-hero .eyebrow,
+.gallery-category .section-kicker {
+  font-family: var(--gallery-hand);
+  font-size: 0.9rem;
+  font-weight: 400;
+  letter-spacing: 0.035em;
+  text-transform: none;
+}
+
+.gallery-statement h2 {
+  max-width: 24ch;
+  margin-bottom: 24px;
+  font-size: clamp(2rem, 4.5vw, 3.6rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+  color: #f2e9d9;
+  text-wrap: balance;
+}
+
+.gallery-statement p {
+  max-width: 68ch;
+  font-size: clamp(1.1rem, 1.7vw, 1.3rem);
+  line-height: 1.85;
+}
+
+.gallery-statement p[lang="en"] {
+  font-style: italic;
+  margin-bottom: 18px;
+}
+
+.gallery-statement p[lang="zh-CN"] {
+  font-family: "Kaiti SC", KaiTi, STKaiti, "Noto Serif CJK SC", "Songti SC", SimSun, serif;
+  font-size: clamp(1.15rem, 1.8vw, 1.4rem);
+  line-height: 2;
+  letter-spacing: 0.045em;
+}
+
+body:has(.gallery-hero) .filter-tabs button {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.015em;
+}
+
+.gallery-category-heading h2 {
+  font-size: clamp(1.7rem, 3vw, 2.5rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.gallery-card strong {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.55;
+}
+
+.gallery-card span {
+  font-family: var(--gallery-hand);
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+
+body:has(.gallery-hero) .lightbox-caption strong {
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+body:has(.gallery-hero) .lightbox-caption span {
+  font-family: var(--gallery-hand);
+  line-height: 1.7;
+}
