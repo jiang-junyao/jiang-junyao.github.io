@@ -59,15 +59,16 @@ layout: default
   <div class="container research-visual">
     <div>
       <p class="section-kicker">Main research topic</p>
-      <h2>From DeepTrack barcoding to transferable fate maps.</h2>
+      <h2 class="compact-heading">Decoding cell fate decisions by integrating single-cell &amp; spatial multiomics across development and disease.</h2>
       <ul class="clean-list">
-        <li>Cell fate decisions explain how pluripotent cells develop into diverse tissues, and how disruptions can lead to congenital abnormalities.</li>
-        <li>In vivo single-cell multi-omics lineage tracing has enabled early lineage priming discovery in mouse embryos and fate-resolved GRN reconstruction.</li>
-        <li>Because direct genetic barcoding is ethically and technically infeasible in human embryos, transfer learning can provide non-invasive in silico fate mapping from 3D human embryo data.</li>
+        <li>Cell fate is controlled by two layers at once: intrinsic programs inside the cell (chromatin state, transcription factors, gene regulatory networks) and extrinsic signals from its niche (neighboring cells, ligand&ndash;receptor communication, tissue position).</li>
+        <li>The interplay between the two shapes cell fate across biological systems: lineage choice in the early embryo, tissue rebuilding in regeneration, and the shift of immune and glial cells into disease-associated states in neurodegeneration and cancer.</li>
+        <li>We combine in vivo single-cell lineage tracing, single-cell and spatial multi-omics, and computational modeling (machine learning, transfer learning, optimal transport) to reconstruct how cells make these decisions.</li>
+        <li>From these fate maps, we prioritize fate-associated regulators and niche signals, and test them to uncover the underlying mechanisms.</li>
       </ul>
     </div>
     <figure>
-      <img src="{{ '/images/research.png' | relative_url }}" alt="Research framework overview">
+      <img src="{{ '/images/research_2026.png' | relative_url }}" alt="Intrinsic programs and extrinsic niche signals jointly shape cell fate decisions across development, regeneration and disease, decoded by lineage tracing, single-cell and spatial multi-omics, and computational modeling">
     </figure>
   </div>
 </section>
@@ -96,6 +97,15 @@ layout: default
       <p class="muted">* Co-first author. # Corresponding author.</p>
     </div>
     <div class="publication-list">
+      {% include publication-card.html
+        venue="bioRxiv 2026 (Preprint / Under review at Nature Methods)"
+        image="/images/nichefate.png"
+        title="Niche-FATE: niche-aware inference of cell-state transitions from spatiotemporal data"
+        url="https://www.biorxiv.org/content/10.64898/2026.11.24.768868v1"
+        authors="<strong>Junyao Jiang#</strong>, Dong Won Kim#"
+        note="First author and co-corresponding author"
+        keywords="Optimal transport / Spatial niche signaling / Cell-state transitions / Alzheimer's disease"
+      %}
       {% include publication-card.html
         venue="bioRxiv 2026 (Preprint / Under review at Cell Systems)"
         image="/images/ageas.png"
@@ -149,19 +159,16 @@ layout: default
         note="Co-first author"
         keywords="Single-cell multi-omics / Gene regulatory network / Inter-cell-type regulations"
       %}
-      {% include publication-card.html
-        venue="Cell Research 2025"
-        image="/images/cr2025.png"
-        title="Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma"
-        url="https://www.nature.com/articles/s41422-025-01155-y"
-        authors="Yapeng Ji, <strong>Junyao Jiang</strong>, Lei Hu, Peng Lin, Mingshan Zhou, Song Hu, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Yang Guo, Adwait Amod Sathe, Bret M. Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang#, Hongtao Yu#"
-        keywords="scRNA-seq / Cell atlas / Glioblastoma / Cancer immunotherapy"
-      %}
     </div>
     <div class="section-heading subsection-heading">
       <h2>Other publications</h2>
     </div>
     <ol class="publication-simple-list">
+      <li>
+        Yapeng Ji, <strong>Junyao Jiang</strong>, Lei Hu, Peng Lin, Mingshan Zhou, Song Hu, Minkai Wang, Yuchen Ji, Xianzhi Liu, Dongming Yan, Yang Guo, Adwait Amod Sathe, Bret M. Evers, Chao Xing, Xuelian Luo, Qi Xie, Weike Pei, Zhenyu Zhang#, Hongtao Yu#.
+        Targeting necrotic lipid release in tumors enhances immunosurveillance and cancer immunotherapy of glioblastoma.
+        <em>Cell Research</em>, 2025.
+      </li>
       <li>
         Yunhui Kong*, <strong>Junyao Jiang*#</strong>, Weikang Kong, Sheng Qin#.
         DRCTdb: disease-related cell type analysis to decode cell type effect and underlying regulatory mechanisms.
