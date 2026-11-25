@@ -1100,3 +1100,15 @@ body:has(.gallery-hero) .lightbox-caption span {
   font-family: var(--gallery-hand);
   line-height: 1.7;
 }
+
+/* Main research topic: larger figure column */
+.research-visual.wide-figure {
+  grid-template-columns: minmax(0, 0.72fr) minmax(0, 1.28fr);
+  gap: 36px;
+}
+
+@media (max-width: 980px) {
+  .research-visual.wide-figure {
+    grid-template-columns: 1fr;
+  }
+}
